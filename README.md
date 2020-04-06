@@ -4,5 +4,5 @@
 ### Built With:
 - [x] HTML5
 - [x] CSS3
-- [x] Javascript
+- [x] JavaScript
 
